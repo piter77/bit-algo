@@ -4,14 +4,14 @@ bit-algo
 <b>Repository for BitAlgo problems</b>
 
 <ul>
-<li>Problem A  DONE</li>
-<li>Problem B  DONE</li>
-<li>Problem C  DONE</li>
-<li>Problem D  DONE</li>
+<li>Problem A - DONE</li>
+<li>Problem B - DONE</li>
+<li>Problem C - DONE</li>
+<li>Problem D - DONE</li>
 </ul>
 
 <ul>
-<li>Problem E  DONE</li>
+<li>Problem E - DONE</li>
 <li>Problem F</li>
 <li>Problem G</li>
 <li>Problem H</li>
@@ -19,10 +19,10 @@ bit-algo
 </ul>
 
 <ul>
-<li>Problem J  DONE</li>
-<li>Problem K  ERROR</li>
-<li>Problem L  DONE</li>
-<li>Problem M  ERROR</li>
+<li>Problem J - DONE</li>
+<li>Problem K - ERROR!!!</li>
+<li>Problem L - DONE</li>
+<li>Problem M - ERROR!!!</li>
 </ul>
 
 <ul>
