@@ -1,28 +1,38 @@
 bit-algo
 ========
 
-Repository for BitAlgo problems
+<b>Repository for BitAlgo problems</b>
 
-- Problem A - DONE
-- Problem B - DONE
-- Problem C - DONE
-- Problem D - DONE
+<ul>
+<li>Problem A  DONE</li>
+<li>Problem B  DONE</li>
+<li>Problem C  DONE</li>
+<li>Problem D  DONE</li>
+</ul>
 
-- Problem E - DONE
-- Problem F
-- Problem G
-- Problem H
-- Problem I
+<ul>
+<li>Problem E  DONE</li>
+<li>Problem F</li>
+<li>Problem G</li>
+<li>Problem H</li>
+<li>Problem I</li>
+</ul>
 
-- Problem J - DONE
-- Problem K - ERROR
-- Problem L - DONE
-- Problem M - ERROR
+<ul>
+<li>Problem J  DONE</li>
+<li>Problem K  ERROR</li>
+<li>Problem L  DONE</li>
+<li>Problem M  ERROR</li>
+</ul>
 
-- Problem N
-- Problem O
-- Problem P
-- Problem Q
+<ul>
+<li>Problem N</li>
+<li>Problem O</li>
+<li>Problem P</li>
+<li>Problem Q</li>
+</ul>
 
-- Problem R
-- Problem S
+<ul>
+<li>Problem R</li>
+<li>Problem S</li>
+</ul>
